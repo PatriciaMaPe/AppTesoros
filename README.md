@@ -1,6 +1,7 @@
 # AppTesoros
-Aplicación para buscar tesoros creados por la comunidad en tu localización.
-<h3 align="center">En desarrollo</h3>
+(Technical Degree student project)
+Application to search for treasures created by the community in your location.
+<h3  align="center">(En desarrollo)</h3>
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/13262676/15885860/292cf5ea-2d5a-11e6-9b9d-0537a1f7cc2d.png" width="800"/>
@@ -14,13 +15,15 @@ de datos embebida. Al seleccionar un tesoro se enseñan las distintas pistas ue 
 una pista aparece en pantalla su descripción y las herramientas para conseguirla. Una de estas herramientas es el reconocimiento de objetos el cual se 
 ha implementado a través de sdk de Vuforia. También se puede encontrar la pista a través de geolocalización.
 
-###Recursos utilizados:
-- Base de datos embebida
-- CustomAdapter
-- Geolocalización
-- Reconocimiento de Objetos
+<h3>Tools:</h3>
+<ul>
+<li>SQLite</li>
+<li>CustomAdapter</li>
+<li>Geolocation</li>
+<li>Vuforia (Object recognition)</li>
+</ul>
 
-###Prototipo
+<h3>Prototype: </h3>
 Algunas imagenes que se realizaron cuando se diseñaba el prototipo. Se ha cambiado la forma de ver los Tesoros, antes se utilizaba
 una lista de elementos y ahora un mapa.
 <p align="center">
